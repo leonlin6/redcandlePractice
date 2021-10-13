@@ -46,7 +46,7 @@ const Carousel = () => {
   };
 
   return(
-  <div>
+  <div style={{paddingTop:'62px'}}>
     <Slider {...settings}>
       <div className="slideSecond">
         <img src="../images/detention_slider.png" style={{ display:'inline-block', width:'auto'}} ></img>

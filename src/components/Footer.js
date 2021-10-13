@@ -9,7 +9,7 @@ const Footer = (props) => {
                 <div style={{paddingTop: '32px', paddingBottom: '16px'}}>
                     <img style={{width: '228px', height: '55px'}} src="./images/redcandle-full.svg"></img>
                 </div>
-                <div className="footerMaps" style={{ marginRight:'auto', marginLeft:'auto', color:'rgb(235, 166, 181)', padding:'24px'}}>
+                <div className="footerMaps" style={{ display:'inline-block',marginRight:'auto', marginLeft:'auto', color:'rgb(235, 166, 181)', padding:'24px'}}>
                     <div className="two wide column">隱私權政策</div>
                     <div className="two wide column">|</div>
                     <div className="two wide column">使用者協議</div>

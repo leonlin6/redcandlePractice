@@ -69,15 +69,15 @@ const Production = (props) => {
                                 <a>遊戲主程式（數位版下載版）</a>
                             </div>                        
                         </div>  
-                        <div class="extra content">
-      <span class="right floated">
-        Joined in 2013
-      </span>
-      <span>
-        <i class="user icon"></i>
-        75 Friends
-      </span>
-    </div>                      
+                        <div class="extra content fontSize19">
+                            <span class="right floated" style={{color:'black'}}>
+                                US$ 16.99
+                            </span>
+                            <span>
+                                <i class="windows icon fontSize19" ></i>
+                                <i class="apple icon"></i>                                
+                            </span>
+                        </div>                      
                     </div>  
                     <div class="card">
                         <div class="image">
